@@ -9,3 +9,4 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $route['example']['get'] = 'example/index';
+$route['example']['post'] = 'example/post`';
